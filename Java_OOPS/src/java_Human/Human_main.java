@@ -1,6 +1,6 @@
-package java_OOPS;
+package java_Human;
 
-public class Earth {
+public class Human_main {
 
 	public static void main(String[] args) {
 		Human human1 = new Human(72, "Guru", 30, "black");
@@ -10,9 +10,7 @@ public class Earth {
 		human1.speak();
 		human2.speak();
 		human3.speak();
-		
 
 	}
 
-	
 }

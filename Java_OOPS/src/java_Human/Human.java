@@ -1,4 +1,4 @@
-package java_OOPS;
+package java_Human;
 
 public class Human {
 	int heightInInches;
@@ -20,4 +20,5 @@ public class Human {
 		System.out.println("I am "+age+" years old");
 		System.out.println("My eye color is "+eyeColor);
 	}
+
 }
